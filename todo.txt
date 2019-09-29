@@ -1,0 +1,6 @@
+verify all movie IDs and titles
+verify movie colors
+move ID to attribute in movie tag
+standardize tag order
+add country tags for all plates
+add additional tags for all plates
